@@ -38,7 +38,7 @@ Having myself doing the interactive chart and doing analysis is interesting. It 
 
 
 
-Below is a link to my Github.
-[Github Link](https://github.com/FattyJunn)
+Below is a link to my Linkedin.
+[Linkedin Link](https://www.linkedin.com/in/see-jun-wong-b33922263/)
 
 
