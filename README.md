@@ -3,6 +3,7 @@
 
 ![Imgur](https://imgur.com/IcWCFQt.png)
 
+[Link to dataset used](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
 #### An analysis on Adidas sales in the US for the year 2020 & 2021.
 From the interactive charts we're able to find out the below
